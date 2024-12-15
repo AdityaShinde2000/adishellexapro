@@ -1,0 +1,2 @@
+# adishellexapro
+Shell scripting example 
